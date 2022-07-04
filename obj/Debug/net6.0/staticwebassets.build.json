@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CtqjNZ6D/n6kv1UoFULtlAUULKuMeXzFtBdXW202E+I=",
+  "Source": "jwt_employee",
+  "BasePath": "_content/jwt_employee",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
